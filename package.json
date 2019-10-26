@@ -1,0 +1,16 @@
+{
+  "name": "egg-app",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "dependencies": {
+    "egg": "^2.24.0",
+    "egg-mysql": "^3.0.0",
+    "egg-view-nunjucks": "^2.2.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.14.0"
+  }
+}

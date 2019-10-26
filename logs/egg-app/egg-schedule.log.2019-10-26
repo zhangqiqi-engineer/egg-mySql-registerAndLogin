@@ -1,0 +1,333 @@
+2019-10-19 15:18:19,350 INFO 95512 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-19 15:18:19,350 INFO 95512 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-19 15:18:19,350 INFO 95512 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-19 15:18:19,586 INFO 95511 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47500417ms at 2019-10-20 04:30:00.003
+2019-10-19 15:18:19,587 INFO 95511 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 31300413ms at 2019-10-20 00:00:00.000
+2019-10-19 15:18:19,587 INFO 95511 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31301413ms at 2019-10-20 00:00:01.000
+2019-10-20 13:01:14,329 INFO 96488 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55725678ms at 2019-10-21 04:30:00.007
+2019-10-20 13:01:14,329 INFO 96488 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 39525671ms at 2019-10-21 00:00:00.000
+2019-10-20 13:01:14,330 INFO 96488 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39526671ms at 2019-10-21 00:00:01.001
+2019-10-20 13:01:14,069 INFO 96489 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 13:01:14,069 INFO 96489 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 13:01:14,069 INFO 96489 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 19:52:12,505 INFO 97026 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 19:52:12,505 INFO 97026 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 19:52:12,505 INFO 97026 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 19:52:49,950 INFO 97031 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 19:52:49,950 INFO 97031 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 19:52:49,950 INFO 97031 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 19:58:48,927 INFO 97054 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 19:58:48,927 INFO 97054 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 19:58:48,927 INFO 97054 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 19:58:50,000 INFO 97056 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 19:58:50,000 INFO 97056 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 19:58:50,000 INFO 97056 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:00:52,813 INFO 97067 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:00:52,814 INFO 97067 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:00:52,814 INFO 97067 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:12:40,164 INFO 97618 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 29839839ms at 2019-10-21 04:30:00.003
+2019-10-20 20:12:40,165 INFO 97618 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 13639836ms at 2019-10-21 00:00:00.001
+2019-10-20 20:12:40,165 INFO 97618 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 13640835ms at 2019-10-21 00:00:01.000
+2019-10-20 20:12:39,903 INFO 97619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:12:39,903 INFO 97619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:12:39,903 INFO 97619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:15:16,067 INFO 97624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:15:16,067 INFO 97624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:15:16,067 INFO 97624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:15:35,876 INFO 97627 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:15:35,876 INFO 97627 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:15:35,876 INFO 97627 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:15:50,331 INFO 97634 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:15:50,331 INFO 97634 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:15:50,331 INFO 97634 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:17:36,496 INFO 97657 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:17:36,496 INFO 97657 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:17:36,496 INFO 97657 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-20 20:18:03,835 INFO 97661 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-20 20:18:03,835 INFO 97661 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-20 20:18:03,835 INFO 97661 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 10:59:26,150 INFO 45067 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63033856ms at 2019-10-27 04:30:00.006
+2019-10-26 10:59:26,150 INFO 45067 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 46833850ms at 2019-10-27 00:00:00.000
+2019-10-26 10:59:26,151 INFO 45067 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46834849ms at 2019-10-27 00:00:01.000
+2019-10-26 10:59:25,922 INFO 45068 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 10:59:25,922 INFO 45068 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 10:59:25,922 INFO 45068 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 11:00:26,649 INFO 45083 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 11:00:26,649 INFO 45083 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 11:00:26,649 INFO 45083 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 11:02:17,225 INFO 45101 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 11:02:17,225 INFO 45101 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 11:02:17,225 INFO 45101 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 11:12:48,938 INFO 45134 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 11:12:48,938 INFO 45134 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 11:12:48,938 INFO 45134 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 11:12:50,097 INFO 45136 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 11:12:50,097 INFO 45136 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 11:12:50,097 INFO 45136 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 11:51:53,272 INFO 45231 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 11:51:53,273 INFO 45231 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 11:51:53,273 INFO 45231 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:06:08,307 INFO 45376 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 59031697ms at 2019-10-27 04:30:00.003
+2019-10-26 12:06:08,307 INFO 45376 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 42831693ms at 2019-10-27 00:00:00.000
+2019-10-26 12:06:08,308 INFO 45376 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 42832693ms at 2019-10-27 00:00:01.001
+2019-10-26 12:06:08,209 INFO 45377 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:06:08,209 INFO 45377 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:06:08,209 INFO 45377 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:07:36,488 INFO 45403 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:07:36,488 INFO 45403 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:07:36,488 INFO 45403 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:07:41,459 INFO 45408 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:07:41,459 INFO 45408 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:07:41,459 INFO 45408 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:07:53,437 INFO 45415 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:07:53,437 INFO 45415 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:07:53,437 INFO 45415 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:07:59,864 INFO 45418 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:07:59,865 INFO 45418 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:07:59,865 INFO 45418 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:08:02,135 INFO 45424 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:08:02,135 INFO 45424 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:08:02,135 INFO 45424 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:12:12,390 INFO 45490 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:12:12,390 INFO 45490 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:12:12,390 INFO 45490 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:12:14,538 INFO 45493 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:12:14,538 INFO 45493 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:12:14,538 INFO 45493 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:24:42,794 INFO 45523 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:24:42,794 INFO 45523 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:24:42,794 INFO 45523 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:24:46,389 INFO 45526 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:24:46,389 INFO 45526 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:24:46,389 INFO 45526 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:25:39,683 INFO 45530 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:25:39,683 INFO 45530 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:25:39,683 INFO 45530 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:25:49,590 INFO 45533 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:25:49,590 INFO 45533 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:25:49,590 INFO 45533 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:26:13,097 INFO 45540 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:26:13,097 INFO 45540 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:26:13,097 INFO 45540 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:27:37,527 INFO 45545 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:27:37,527 INFO 45545 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:27:37,527 INFO 45545 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:28:22,719 INFO 45557 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:28:22,719 INFO 45557 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:28:22,719 INFO 45557 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:32:27,973 INFO 45571 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:32:27,973 INFO 45571 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:32:27,973 INFO 45571 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 12:34:09,053 INFO 45580 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 12:34:09,053 INFO 45580 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 12:34:09,053 INFO 45580 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:15:53,865 INFO 46253 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51246139ms at 2019-10-27 04:30:00.003
+2019-10-26 14:15:53,865 INFO 46253 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 35046135ms at 2019-10-27 00:00:00.000
+2019-10-26 14:15:53,865 INFO 46253 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 35047135ms at 2019-10-27 00:00:01.000
+2019-10-26 14:15:53,753 INFO 46254 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:15:53,753 INFO 46254 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:15:53,753 INFO 46254 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:16:44,631 INFO 46279 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:16:44,632 INFO 46279 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:16:44,632 INFO 46279 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:17:39,902 INFO 46321 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51140102ms at 2019-10-27 04:30:00.004
+2019-10-26 14:17:39,903 INFO 46321 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 34940098ms at 2019-10-27 00:00:00.001
+2019-10-26 14:17:39,903 INFO 46321 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34941097ms at 2019-10-27 00:00:01.000
+2019-10-26 14:17:39,798 INFO 46322 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:17:39,798 INFO 46322 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:17:39,798 INFO 46322 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:18:19,534 INFO 46362 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 51100470ms at 2019-10-27 04:30:00.004
+2019-10-26 14:18:19,534 INFO 46362 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 34900466ms at 2019-10-27 00:00:00.000
+2019-10-26 14:18:19,535 INFO 46362 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34901465ms at 2019-10-27 00:00:01.000
+2019-10-26 14:18:19,434 INFO 46363 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:18:19,434 INFO 46363 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:18:19,434 INFO 46363 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:22:24,933 INFO 46474 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50855071ms at 2019-10-27 04:30:00.004
+2019-10-26 14:22:24,933 INFO 46474 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 34655067ms at 2019-10-27 00:00:00.000
+2019-10-26 14:22:24,934 INFO 46474 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34656067ms at 2019-10-27 00:00:01.001
+2019-10-26 14:22:24,834 INFO 46475 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:22:24,834 INFO 46475 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:22:24,834 INFO 46475 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:22:40,976 INFO 46482 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:22:40,977 INFO 46482 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:22:40,977 INFO 46482 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:22:43,361 INFO 46485 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:22:43,361 INFO 46485 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:22:43,361 INFO 46485 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:23:15,118 INFO 46494 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:23:15,118 INFO 46494 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:23:15,118 INFO 46494 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:23:39,679 INFO 46511 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:23:39,679 INFO 46511 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:23:39,679 INFO 46511 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:23:49,882 INFO 46517 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:23:49,882 INFO 46517 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:23:49,882 INFO 46517 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:27:51,418 INFO 46529 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:27:51,418 INFO 46529 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:27:51,418 INFO 46529 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:28:26,744 INFO 46539 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:28:26,744 INFO 46539 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:28:26,744 INFO 46539 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:28:28,257 INFO 46541 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:28:28,257 INFO 46541 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:28:28,257 INFO 46541 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 14:28:30,690 INFO 46546 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 14:28:30,690 INFO 46546 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 14:28:30,690 INFO 46546 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:02:33,978 INFO 49659 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26846026ms at 2019-10-27 04:30:00.004
+2019-10-26 21:02:33,978 INFO 49659 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 10646022ms at 2019-10-27 00:00:00.000
+2019-10-26 21:02:33,978 INFO 49659 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 10647022ms at 2019-10-27 00:00:01.000
+2019-10-26 21:02:33,684 INFO 49660 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:02:33,684 INFO 49660 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:02:33,684 INFO 49660 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:16:22,044 INFO 49782 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 26017960ms at 2019-10-27 04:30:00.003
+2019-10-26 21:16:22,044 INFO 49782 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 9817956ms at 2019-10-27 00:00:00.000
+2019-10-26 21:16:22,044 INFO 49782 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9818956ms at 2019-10-27 00:00:01.000
+2019-10-26 21:16:21,763 INFO 49783 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:16:21,763 INFO 49783 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:16:21,763 INFO 49783 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:18:57,710 INFO 49796 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:18:57,710 INFO 49796 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:18:57,710 INFO 49796 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:29:05,409 INFO 49869 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:29:05,409 INFO 49869 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:29:05,409 INFO 49869 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:29:39,081 INFO 49883 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 25220924ms at 2019-10-27 04:30:00.005
+2019-10-26 21:29:39,081 INFO 49883 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 9020919ms at 2019-10-27 00:00:00.000
+2019-10-26 21:29:39,081 INFO 49883 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 9021919ms at 2019-10-27 00:00:01.000
+2019-10-26 21:29:38,951 INFO 49884 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:29:38,951 INFO 49884 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:29:38,951 INFO 49884 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:37:43,319 INFO 49963 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:37:43,319 INFO 49963 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:37:43,319 INFO 49963 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:38:34,985 INFO 49970 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:38:34,985 INFO 49970 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:38:34,985 INFO 49970 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:39:13,558 INFO 49992 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:39:13,559 INFO 49992 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:39:13,559 INFO 49992 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:39:13,720 INFO 49991 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 24646283ms at 2019-10-27 04:30:00.003
+2019-10-26 21:39:13,721 INFO 49991 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 8446280ms at 2019-10-27 00:00:00.001
+2019-10-26 21:39:13,721 INFO 49991 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 8447279ms at 2019-10-27 00:00:01.000
+2019-10-26 21:44:06,373 INFO 50016 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:44:06,373 INFO 50016 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:44:06,373 INFO 50016 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:46:29,785 INFO 50030 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:46:29,785 INFO 50030 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:46:29,785 INFO 50030 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:46:31,596 INFO 50033 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:46:31,596 INFO 50033 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:46:31,596 INFO 50033 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:47:05,760 INFO 50041 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:47:05,760 INFO 50041 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:47:05,760 INFO 50041 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:47:39,213 INFO 50049 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:47:39,213 INFO 50049 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:47:39,213 INFO 50049 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:51:50,495 INFO 50059 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:51:50,495 INFO 50059 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:51:50,495 INFO 50059 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 21:51:52,925 INFO 50062 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 21:51:52,925 INFO 50062 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 21:51:52,925 INFO 50062 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:21:28,757 INFO 50288 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 22111247ms at 2019-10-27 04:30:00.004
+2019-10-26 22:21:28,757 INFO 50288 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5911243ms at 2019-10-27 00:00:00.000
+2019-10-26 22:21:28,757 INFO 50288 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5912243ms at 2019-10-27 00:00:01.000
+2019-10-26 22:21:28,321 INFO 50289 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:21:28,321 INFO 50289 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:21:28,321 INFO 50289 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:22:11,494 INFO 50303 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:22:11,494 INFO 50303 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:22:11,494 INFO 50303 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:22:26,075 INFO 50311 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:22:26,075 INFO 50311 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:22:26,075 INFO 50311 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:22:37,661 INFO 50320 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:22:37,661 INFO 50320 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:22:37,661 INFO 50320 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:22:48,988 INFO 50331 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:22:48,988 INFO 50331 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:22:48,988 INFO 50331 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:23:36,117 INFO 50344 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:23:36,117 INFO 50344 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:23:36,117 INFO 50344 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:25:24,875 INFO 50397 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21875129ms at 2019-10-27 04:30:00.004
+2019-10-26 22:25:24,875 INFO 50397 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5675125ms at 2019-10-27 00:00:00.000
+2019-10-26 22:25:24,875 INFO 50397 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5676125ms at 2019-10-27 00:00:01.000
+2019-10-26 22:25:24,731 INFO 50398 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:25:24,731 INFO 50398 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:25:24,731 INFO 50398 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:27:11,732 INFO 50549 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21768272ms at 2019-10-27 04:30:00.004
+2019-10-26 22:27:11,732 INFO 50549 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5568268ms at 2019-10-27 00:00:00.000
+2019-10-26 22:27:11,732 INFO 50549 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5569268ms at 2019-10-27 00:00:01.000
+2019-10-26 22:27:11,587 INFO 50550 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:27:11,588 INFO 50550 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:27:11,588 INFO 50550 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:32:02,159 INFO 50611 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:32:02,159 INFO 50611 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:32:02,159 INFO 50611 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:32:02,311 INFO 50610 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 21477692ms at 2019-10-27 04:30:00.003
+2019-10-26 22:32:02,312 INFO 50610 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 5277688ms at 2019-10-27 00:00:00.000
+2019-10-26 22:32:02,312 INFO 50610 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 5278688ms at 2019-10-27 00:00:01.000
+2019-10-26 22:33:18,372 INFO 50619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:33:18,372 INFO 50619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:33:18,372 INFO 50619 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:33:38,848 INFO 50624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:33:38,848 INFO 50624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:33:38,848 INFO 50624 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:43:52,299 INFO 50755 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:43:52,299 INFO 50755 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:43:52,299 INFO 50755 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:47:18,176 INFO 50772 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:47:18,176 INFO 50772 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:47:18,176 INFO 50772 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:47:44,931 INFO 50776 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:47:44,931 INFO 50776 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:47:44,931 INFO 50776 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:47:45,999 INFO 50781 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:47:45,999 INFO 50781 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:47:45,999 INFO 50781 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:47:57,375 INFO 50793 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:47:57,375 INFO 50793 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:47:57,375 INFO 50793 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:47:57,519 INFO 50792 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20522485ms at 2019-10-27 04:30:00.004
+2019-10-26 22:47:57,520 INFO 50792 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 4322481ms at 2019-10-27 00:00:00.001
+2019-10-26 22:47:57,520 INFO 50792 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4323480ms at 2019-10-27 00:00:01.000
+2019-10-26 22:49:36,760 INFO 50800 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:49:36,760 INFO 50800 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:49:36,760 INFO 50800 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 22:59:21,874 INFO 50845 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 22:59:21,874 INFO 50845 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 22:59:21,874 INFO 50845 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:50:03,139 INFO 51543 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 16796866ms at 2019-10-27 04:30:00.005
+2019-10-26 23:50:03,139 INFO 51543 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 596861ms at 2019-10-27 00:00:00.000
+2019-10-26 23:50:03,140 INFO 51543 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 597861ms at 2019-10-27 00:00:01.000
+2019-10-26 23:50:02,864 INFO 51544 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:50:02,864 INFO 51544 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:50:02,864 INFO 51544 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:50:54,641 INFO 51566 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:50:54,641 INFO 51566 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:50:54,641 INFO 51566 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:51:07,282 INFO 51576 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:51:07,283 INFO 51576 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:51:07,283 INFO 51576 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:52:34,480 INFO 51589 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:52:34,480 INFO 51589 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:52:34,480 INFO 51589 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:52:41,280 INFO 51592 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:52:41,280 INFO 51592 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:52:41,280 INFO 51592 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:54:14,617 INFO 51603 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:54:14,617 INFO 51603 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:54:14,617 INFO 51603 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-26 23:54:53,616 INFO 51607 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-10-26 23:54:53,616 INFO 51607 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-10-26 23:54:53,616 INFO 51607 [egg-schedule]: register schedule /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-10-27 00:00:00,029 INFO 51543 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 86399976ms at 2019-10-28 00:00:00.005
+2019-10-27 00:00:00,025 INFO 51607 [Job#15721056000235103782710155841] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2019-10-27 00:00:00,037 INFO 51607 [Job#15721056000235103782710155841] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 11ms
+2019-10-27 00:00:01,024 INFO 51607 [Job#15721056010235103792711453251] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-10-27 00:00:01,034 INFO 51607 [Job#15721056010235103792711453251] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 10ms
+2019-10-27 00:00:01,029 INFO 51543 [Timer] /Users/qizhang/project/node-project/egg-app/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399977ms at 2019-10-28 00:00:01.006

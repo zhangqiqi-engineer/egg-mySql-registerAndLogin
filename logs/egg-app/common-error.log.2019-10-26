@@ -1,0 +1,397 @@
+2019-10-19 21:45:09,751 ERROR 95511 nodejs.ClusterClientNoResponseError: client no response in 22510023ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/qizhang/project/node-project/egg-app/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 95511
+hostname: qideMacBook-Air.local
+
+2019-10-20 12:30:06,898 ERROR 95511 nodejs.ClusterClientNoResponseError: client no response in 53077097ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/qizhang/project/node-project/egg-app/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 95511
+hostname: qideMacBook-Air.local
+
+2019-10-20 12:36:13,716 ERROR 95511 nodejs.ClusterClientNoResponseError: client no response in 366783ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/qizhang/project/node-project/egg-app/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 95511
+hostname: qideMacBook-Air.local
+
+2019-10-20 19:33:14,475 ERROR 96488 nodejs.ClusterClientNoResponseError: client no response in 23380117ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/qizhang/project/node-project/egg-app/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 96488
+hostname: qideMacBook-Air.local
+
+2019-10-20 20:16:50,413 ERROR 97634 [-/::1/-/5040ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/qizhang/project/node-project/egg-app/node_modules/_urllib@2.34.1@urllib/lib/urllib.js:926:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5025,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 97634
+hostname: qideMacBook-Air.local
+
+2019-10-26 11:00:03,126 ERROR 45068 [-/::1/-/5054ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/qizhang/project/node-project/egg-app/node_modules/_urllib@2.34.1@urllib/lib/urllib.js:926:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5039,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 45068
+hostname: qideMacBook-Air.local
+
+2019-10-26 11:12:57,767 ERROR 45136 [-/::1/-/5042ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/qizhang/project/node-project/egg-app/node_modules/_urllib@2.34.1@urllib/lib/urllib.js:926:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5026,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 45136
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:11:52,447 ERROR 49660 [-/::1/-/9ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49660
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:13:28,785 ERROR 49660 [-/::1/-/1ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49660
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:15:58,321 ERROR 49660 [-/::1/-/0ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49660
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:16:31,186 ERROR 49783 [-/::1/-/12ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49783
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:19:30,963 ERROR 49796 [-/::1/-/10ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49796
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:22:09,425 ERROR 49796 [-/::1/-/1ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:17:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49796
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:30:39,064 ERROR 49884 [-/::1/-/6ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:19:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 49884
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:35:28,363 ERROR 49884 [-/::1/-/5048ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/qizhang/project/node-project/egg-app/node_modules/_urllib@2.34.1@urllib/lib/urllib.js:926:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5032,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 49884
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:47:51,468 ERROR 50049 [-/::1/-/17ms GET /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50049
+hostname: qideMacBook-Air.local
+
+2019-10-26 21:59:29,938 ERROR 50062 [-/::1/-/5ms POST /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50062
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:22:55,929 ERROR 50331 [-/::1/-/17ms GET /] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (/Users/qizhang/project/node-project/egg-app/app/controller/home.js:6:9)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50331
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:27:40,071 ERROR 50550 [-/::1/-/41ms POST /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50550
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:31:26,523 ERROR 50550 [-/::1/-/1ms POST /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50550
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:32:09,990 ERROR 50611 [-/::1/-/75ms POST /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50611
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:33:58,880 ERROR 50624 [-/::1/-/27ms POST /app/register] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:8:61)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50624
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:44:05,001 ERROR 50755 [-/::1/-/46ms POST /app/register] nodejs.SyntaxError: Identifier 'queryUserName' has already been declared
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:10:47)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50755
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:47:27,170 ERROR 50772 [-/::1/-/37ms POST /app/register] nodejs.SyntaxError: Identifier 'queryUserName' has already been declared
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:10:47)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50772
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:47:31,445 ERROR 50772 [-/::1/-/6ms POST /app/register] nodejs.SyntaxError: Identifier 'queryUserName' has already been declared
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:10:47)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50772
+hostname: qideMacBook-Air.local
+
+2019-10-26 22:48:31,834 ERROR 50793 [-/::1/-/34ms POST /app/register] nodejs.SyntaxError: Identifier 'queryUserName' has already been declared
+    at RegisterController.registerIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:10:47)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 50793
+hostname: qideMacBook-Air.local
+
+2019-10-26 23:51:38,896 ERROR 51576 [-/::1/-/36ms POST /app/login] nodejs.TypeError: Cannot read property 'useName' of undefined
+    at RegisterController.loginIndex (/Users/qizhang/project/node-project/egg-app/app/controller/register.js:18:58)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/qizhang/project/node-project/egg-app/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/qizhang/project/node-project/egg-app/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 51576
+hostname: qideMacBook-Air.local
+
